@@ -11,7 +11,7 @@
         $name_stu = "Watcharakorn Choptum";
         $tel = "0879583017";
         $address = "Samutprakan,Thailand";
-
+ดเัีเร้นร่รยทนยมสยสวบ
         echo "My student ID is ".$ID_stu."<br>";
         echo "Name is ".$name_stu."<br>";
         echo "Telephone ".$tel."<br>";
